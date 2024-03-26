@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Inuri Amasha</h1>
+<h3 align="center">A passionate data analyst and data scientist from Sri Lanka</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamilnirash&label=Profile%20views&color=0e75b6&style=flat" alt="shamilnirash" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamilnirash" alt="shamilnirash" /></a> </p>
+
+- 🌱 I’m currently learning **Computer Science, Statistics and Mathematics**
+
+- 🎓 Undergraduate at [University of Sri Jayewardenepura](University of Sri Jayewardenepura)
+
+- 💬 Ask me about **Power BI, R Studio, Tableau**
+
+- 📫 How to reach me **inuriamasha76@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/inuri-amasha-80b971259) 
