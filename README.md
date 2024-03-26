@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Science, Statistics and Mathematics**
 
-- 🎓 Undergraduate at [University of Sri Jayewardenepura](University of Sri Jayewardenepura)
+- 🎓 Undergraduate at University of Sri Jayewardenepura
 
 - 💬 Ask me about **Power BI, R Studio, Tableau**
 
