@@ -7,7 +7,7 @@
 
 - 🎓 Undergraduate at University of Sri Jayewardenepura
 
-- 💬 Ask me about **Power BI, R Studio, Tableau**
+- 💬 Ask me about **Power BI, R Studio, Tableau and Excel**
 
 - 📫 How to reach me **inuriamasha76@gmail.com**
 
